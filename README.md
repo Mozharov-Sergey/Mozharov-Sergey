@@ -22,7 +22,6 @@
 - TypeScript
 - SASS(SCSS)
 - Redux
-- Node.js
 
 
 ## Новости
