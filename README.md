@@ -11,6 +11,7 @@
 
  ### 🚀 Мой стек:
 - React.js ✈️
+- Express.js
 - WebPack
 - JavaScript
 - HTML5
