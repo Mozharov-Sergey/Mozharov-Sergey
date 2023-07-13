@@ -17,7 +17,7 @@
 - JavaScript
 - HTML5
 - CSS3
-- CSS
+- SCSS
 
 ### 🎯 В планах:
 - TypeScript
