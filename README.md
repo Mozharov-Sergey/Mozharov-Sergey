@@ -17,10 +17,10 @@
 - JavaScript
 - HTML5
 - CSS3
+- CSS
 
 ### 🎯 В планах:
 - TypeScript
-- SASS(SCSS)
 - Redux
 
 
